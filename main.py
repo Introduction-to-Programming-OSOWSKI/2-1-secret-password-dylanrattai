@@ -1,6 +1,6 @@
-def password(passwordVar):
+def password(p):
 
-    if passwordVar == "Knights19":
+    if p == "Knights19":
         return "Access Granted"
     else:
         return "Access Denied"
